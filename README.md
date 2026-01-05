@@ -27,9 +27,8 @@ A modern, full-featured ecommerce web application built with Django. This projec
 
 ```bash
 # Clone the project
-https://github.com/sijalneupane/Ecommerce_5thsem_khalti.git
-cd Ecommerce_5thsem_khalti
-```
+git clone https://github.com/CodeVineet92/MeroBazaar.git
+cd Ecommerce_7thsem_khalti
 
 ### 2. Create and Activate a Virtual Environment
 
@@ -121,4 +120,4 @@ This project is for educational/demo purposes only.
 
 ---
 
-**Developed with Django, Bootstrap, and ❤️ by [Sijal Neupane]**
+**Developed with Django, Bootstrap, and ❤️ by [Binit Giri]**
