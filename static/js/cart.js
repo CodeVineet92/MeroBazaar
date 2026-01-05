@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Update cart count on page load
     updateCartCount();
     
-    // Handle add to cart forms with AJAX
+    // Handle add to cart forms with Ajax
     const addToCartForms = document.querySelectorAll('form[action*="add-to-cart"]');
     addToCartForms.forEach(form => {
         form.addEventListener('submit', function(e) {
