@@ -8,7 +8,7 @@
 __pycache__/
 *.env
 
-# Django specific
+# Django specifics
 db.sqlite3
 *.log
 /staticfiles/
