@@ -119,5 +119,8 @@ Visit [http://127.0.0.1:8000/store/admin/](http://127.0.0.1:8000/store/admin/) t
 This project is for educational/demo purposes only.
 
 ---
+## Username- Binit
+## email- binitgiri22@gmail.com
+## Password- jamuna123
 
 **Developed with Django, Bootstrap, and ❤️ by [Binit Giri]**

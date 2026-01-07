@@ -73,7 +73,7 @@ body {
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
 }
 
-/* Active Navigation Item Styles */
+/* Active Navigation Item Styles  */
 .navbar-nav .nav-link.active-nav-item {
     background: linear-gradient(45deg, #ed8936, #dd6b20) !important;
     color: white !important;
