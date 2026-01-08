@@ -1,4 +1,4 @@
-# Ecommerce Store (Django + Khalti Integration)
+# MeroBazaar (Django + Khalti Integration)
 
 A modern, full-featured ecommerce web application built with Django. This project supports user authentication, product management, shopping cart, order management, and Khalti payment gateway integration for online payments (test mode).
 
