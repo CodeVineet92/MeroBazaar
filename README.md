@@ -28,7 +28,7 @@ A modern, full-featured ecommerce web application built with Django. This projec
 ```bash
 # Clone the project
 git clone https://github.com/CodeVineet92/MeroBazaar.git
-cd Ecommerce_7thsem_khalti
+cd MeroBazaar
 
 ### 2. Create and Activate a Virtual Environment
 
